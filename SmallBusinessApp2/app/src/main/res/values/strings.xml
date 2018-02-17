@@ -1,0 +1,37 @@
+<resources>
+    <!--string for app name-->
+    <string name="app_name">HUNIMANITY</string>
+    <!--string for main header -->
+    <string name="main_header">Converge and Connect!</string>
+    <!--string for intro text-->
+    <string name="intro">Register to Hunimanity and join the first universal event app!\nThis event socialization platform will eliminate the need for multiple single use event apps.\nNo longer will you need to download an event app for each event you attend and then delete it afterwards to make room for more event apps.\nEnter your interests in your profile and connect with events you are registered to attend.\nYou will then be able to connect with other attendees, locate and connect with others onsite and even in passing in your neighborhood coffee shop!\nJoin the revolution now!</string>
+    <!--string header to prompt submission of new event-->
+    <string name="second_header">Register Your Event Here</string>
+    <!--string text to prompt submission of new event-->
+    <string name="submit_new_event">Register your event.\nIf you will be attending an event and it is not registered with Hunimanity, contact the event organisers to have them sign up.\nYou can send us their information in the registration form as well.</string>
+    <!--string name hint-->
+    <string name="name_hint">ENTER NAME</string>
+    <!--string email hint-->
+    <string name="email_hint">ENTER EMAIL</string>
+    <!--string interests hint-->
+    <string name="interests_hint">ENTER INTERESTS SEPARATED WITH A SEMICOLON</string>
+    <!--string event name hint-->
+    <string name="event_name_hint">ENTER EVENT NAME</string>
+    <!--string event email hint-->
+    <string name="event_email_hint">ENTER EVENT EMAIL</string>
+    <!--string contact person hint-->
+    <string name="contact_person_hint">ENTER CONTACT PERSON HERE</string>
+    <!--string Event Registration Button-->
+    <string name="event_registration_button">REGISTER YOUR EVENT HERE</string>
+
+
+    <!--string Registration Button-->
+    <string name="registration_button">REGISTER HERE</string>
+    <!--string clear form Button-->
+    <string name="clear_form">CLEAR FORM</string>
+
+    <!--string business contact info-->
+    <string name="contact_info">Phone No.: 212-555-1212 | Hunimanity Address: 123 Rainbow Drive, Utopia | Email Address: contactus@hunimanity.com</string>
+
+
+</resources>
